@@ -1,0 +1,1 @@
+Open Breakout\bin\Game and run main.class from eclipse or other java ide
